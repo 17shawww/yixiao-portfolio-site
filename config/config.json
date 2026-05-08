@@ -1,0 +1,28 @@
+{
+  "name": "Yixiao Peng",
+  "title": "PM / UX Research Portfolio",
+  "language": "en",
+  "projects": [
+    {
+      "name": "LexFlow",
+      "type": "Product Strategy + UX Research",
+      "priority": 1
+    },
+    {
+      "name": "Capso",
+      "type": "AI Product",
+      "priority": 2
+    },
+    {
+      "name": "Stylr",
+      "type": "Consumer Product + User Research",
+      "priority": 3
+    }
+  ],
+  "otherWork": [
+    "Sensory Garden Labyrinth",
+    "Modular Navigation Shoe"
+  ],
+  "style": "clean minimal professional",
+  "pages": ["home", "project", "about", "resume", "contact"]
+}

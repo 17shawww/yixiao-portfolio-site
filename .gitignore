@@ -1,0 +1,14 @@
+.DS_Store
+.next
+node_modules
+npm-debug.log*
+dist
+coverage
+out
+.env*
+.tmp
+.codex-tmp
+*.tsbuildinfo
+exports
+reference
+assets/resume

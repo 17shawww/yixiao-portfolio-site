@@ -1,0 +1,35 @@
+{
+  "name": "yixiao-portfolio-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio site for Yixiao Peng built with Next.js, TypeScript, and Tailwind CSS.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "assets:atoms": "node scripts/extract-visual-atoms.mjs",
+    "assets:transparent": "node scripts/make-transparent-exports.mjs",
+    "assets:support": "node scripts/generate-support-visuals.mjs"
+  },
+  "keywords": [],
+  "author": "Yixiao Peng",
+  "license": "ISC",
+  "dependencies": {
+    "lucide-react": "^1.8.0",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "sharp": "^0.34.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.4",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^3.4.19",
+    "typescript": "^6.0.3"
+  }
+}
